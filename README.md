@@ -47,7 +47,7 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 
 ## Miscellaneous
 
-### Manage a external program
+### Manage an external program
 
 ![C++](https://img.shields.io/badge/-%235e97d0.svg?style=flat-square&logo=c%2B%2B&logoColor=fff) <a href="https://github.com/gyunaev/birdtray"> Birdtray</a> 
 : System tray notification for new mail for Thunderbird
