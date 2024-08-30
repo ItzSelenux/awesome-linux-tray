@@ -99,7 +99,7 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 ### Panel/Bar Widgets
 ![Perl](https://img.shields.io/badge/-39457E?style=flat-square&logo=perl&logoColor=white)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/mbt/alltray"> Menutray</a>
+<a href="https://github.com/trizen/menutray"> Menutray</a>
 : A simple GTK+ application menu tray.
 
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
