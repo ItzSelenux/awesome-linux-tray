@@ -65,6 +65,12 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 ![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/palinek/nm-tray">nm-tray</a> : NetworkManager tray icon -> simple front end
 
+## Multimedia
+### Music
+![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
+![GTK3](https://img.shields.io/badge/WxWidgets-337ab7?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAAuCAYAAACYlx/0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAdnJLH8AAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAABM9JREFUaIHtmT2IJEUUx3/VXTMLwjQ77YGBq2hiJAgHB0bndyqYGRzoBcIhIqwYCIZioMGBindgcsaKCmd2aCDGIgjGnqGiTrNbuyxOd5XBbs3V1lZ118zUHor7h2Vn3qt69d6r99U9cIYz/K8hTkOoUuoC8BbwBHCvzzfGpIjZN8Z8D3xcVdXXeTW8g+wOUEpdAa4JIURZlsE1fQ5weV3X2e/Xq6p6Na+mh8jqAKXU08C3ZVkyGo0QQkSNDdF9mjGGruto2xbg9aqqPsqpL+R3wHdCiIsbGxsIcUe0a1iK4T5tPp+jtf5DCHHfZDLROXUucgna29sbARdt2LsOgEODQjecQiuKAmPMOa31Y7n0tZAZZT1gjAka7mNZmpUphDiXQ1EXOR0QTSdryKrOcPZnL9rZHODnecyI2PdlaDmRMwKAsCPWLYKniewOgPVCPbYuVF9yIKsDUm9tyPD/dA3ou+m+243xhRAIIZBSAryolDofkx/Bn8CtyWRyO8Q89RSIGefSY4YbY9D62NzzcuiMFF12dnZuAK9VVbXv8nNGgFim0scMh0PjtdYURcFoNKIoiuhYPURzxunLwEO7u7vPTCaTxYJsk6CF1jqY036oDz0QCSEYj8eUZZlsfExuWZY2hZ4yxrzi8nojQCn1KDAhYcjpum7LVmk3bIfmA19WURRorRmPx4v8zzFTlGVpny4vAZ9YetABSqnLwDvA/TFFfVjF3XZlDbb0GGI1YGjdMvODdW7bthdc+gkHKKWuAttFUSClTJ7tjTEcHBwED48h5VF53cEpIGvD5R9zgFLqWWBbSsloNAoKcW/XpXnVeukbDylroyllRkg9w4cfAdtOz10p//qK3TrKriOrT77vgMeL4rAxLOt5W7Bs+/ILYa55P9Vwf/6IdRLpbZoO5XyfIVJK5vP54l1eKF36jEg9p48WKrh97fdEEQxNbqk3KKWk67oT3aAPvoyjtz8LXqoTA1Nj0pwQbINDyveF4Xg8XkSBr1CKPJuCMaVjFxGbPYaQNAqHoiLEXwiVEinlQiljDPP5HGPMu0KIr/r2Ai8Aby8z+Q3p18cLpkAoZ9YZRW2BFEL8urm5+UNUS6BpmvMx2f5n3wEhDEWDXwR7F8fWDYXpKtVea43WGv/HFStrlelysAvEFg5FQUoIrgqb3+7/dYas5C4wtHHZ3FvXOUPhvuqQFU2BFE+m3kTOgSd1Xer+YATY3IsZu8pNrAL31lPaYeL5x3pzbxfwBd4lw3+z8uxYnXLO0PmO7j+79N4UcP9iQ806LSiCb4wxs67rpkII2rZdzPGplT3Ed/Z/4fKTXokNVf8h3jKO2Nzc3AfeMObwXZ79eTw05g453zX+aP8vwFV3XVIbzMFL4VtMp9NPZ7NZpbV+X2u9kfJSJuG8n4Dn67pWLtF3wG1jzMOhQ9btvUef91IUB5hOpx/OZrObwEvGmEeAe1J08dABfwG3gC/ruj6Rx8dc2zTNdeCKlJKyLBfP9bGpK7UgHcmYA1t1Xf+eqv3dgF8D3gP22ral67pjz/Yu+gpSxHiAD/5txkPgdXfTNE8CN4HJKs/zPu+I/zlwqa7rv1dV9LQQtLBpmi1jzJvAc8CDDHSLiBN2gR+BG3Vdf7amnmc4wxlOB/8A+uVS19dRL5EAAAAASUVORK5CYII=&logoColor=fff)
+<a href="https://github.com/ebruck/radiotray-ng">Radiotray-NG</a> : An Internet radio player for Linux
+
 ## Miscellaneous
 
 ### Manage an external program
@@ -106,6 +112,12 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 <a href="https://invent.kde.org/utilities/kteatime">
 KTeaTime	</a>
 : A handy timer for steeping tea
+
+### Fun
+![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://github.com/chux0519/runcat-tray"> runcat-tray</a>
+: A runcat port for Linux using libappindicator (Another useless cat here..)
 
 ## Programming libraries to create tray programs
 
