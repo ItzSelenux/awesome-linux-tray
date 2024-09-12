@@ -20,6 +20,11 @@ For users of KDE, Gnome, or even Xfce, this may seem unnecessary because these e
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 <a href="https://github.com/valr/cbatticon"> Cbatticon</a> : A lightweight and fast battery icon that sits in your system tray
 
+### Performance
+![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://github.com/N0rbert/powerprofilesctl-tray"> powerprofilesctl-tray</a> : Tray icon indicator for powerprofilesctl
+
 ### Keyboard
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
