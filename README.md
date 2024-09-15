@@ -66,7 +66,7 @@ Full Example:
 ### Others
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
-![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/apapamarkou/pipewire-controller ">PipeWire Controller</a> : Change sample rate and buffer size when using pipewire
 
 ### PCI/USB Devices
