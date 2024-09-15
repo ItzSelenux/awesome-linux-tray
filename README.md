@@ -23,7 +23,7 @@ Full Example:
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/kj-sh604/playerctl_systray"> Cool tray app</a> : Example entry.
+<a href="https://github.com/itzselenux/awesome-linux-tray"> Cool tray app</a> : Example entry.
 
 # List
 
@@ -33,6 +33,11 @@ Full Example:
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 <a href="https://github.com/valr/cbatticon"> Cbatticon</a> : A lightweight and fast battery icon that sits in your system tray
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://github.com/ItzSelenux/cbatticon"> Cbatticon Ayatana</a> : Personal cbatticon fork that uses ayatana, awaiting to be merged
 
 ### Performance
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
