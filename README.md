@@ -46,9 +46,10 @@ Full Example:
 <a href="https://github.com/N0rbert/powerprofilesctl-tray"> powerprofilesctl-tray</a> : Tray icon indicator for powerprofilesctl
 
 ### Keyboard
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/ItzSelenux/gxcapindicator"> GXCapIndicator</a> : Simple and universal Cap/Num lock key indicator for x11 tray
+<a href="https://github.com/ItzSelenux/gxcapindicator"> GXCapIndicator</a> : Simple and universal Cap/Num lock key indicator in the tray
 
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
@@ -66,7 +67,7 @@ Full Example:
 ### Others
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
-![Qt6](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/apapamarkou/pipewire-controller ">PipeWire Controller</a> : Change sample rate and buffer size when using pipewire
 
 ### PCI/USB Devices
