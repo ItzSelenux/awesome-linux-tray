@@ -117,30 +117,25 @@ Full Example:
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
 ![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
-<a href="https://github.com/gyunaev/birdtray"> Birdtray</a>
-: System tray notification for new mail for Thunderbird
+<a href="https://github.com/gyunaev/birdtray"> Birdtray</a> : System tray notification for new mail for Thunderbird
 
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/tsmetana/spotify-tray"> Spotify Tray</a>
-: Adds a tray icon to the Spotify Linux client application
+<a href="https://github.com/tsmetana/spotify-tray"> Spotify Tray</a> : Adds a tray icon to the Spotify Linux client application
 
 ### Panel/Bar utils
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://codeberg.org/WhyNotHugo/caffeine-ng"> Caffeine-ng</a>
-: Temporarily inhibits the screensaver and sleep mode.
+<a href="https://codeberg.org/WhyNotHugo/caffeine-ng"> Caffeine-ng</a> : Temporarily inhibits the screensaver and sleep mode.
 
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
 ![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
-<a href="https://github.com/user-none/KDocker"> Kdocker</a>
-: Docks other application software into the system tray
+<a href="https://github.com/user-none/KDocker"> Kdocker</a> : Docks other application software into the system tray
 
 ![Haskell](https://img.shields.io/badge/-5b4e7e?style=flat-square&logo=haskell&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/mbt/alltray"> gtk-sni-tray</a>
-: Provides a StatusNotifierHost widget written using the gtk+3 bindings for haskell (recommended for taffybar)
+<a href="https://github.com/mbt/alltray"> gtk-sni-tray</a> : Provides a StatusNotifierHost widget written using the gtk+3 bindings for haskell (recommended for taffybar)
 
 ### Panel/Bar Widgets
 
@@ -167,30 +162,24 @@ Full Example:
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
-<a href="https://github.com/chux0519/runcat-tray"> runcat-tray</a>
-: A runcat port for Linux using libappindicator (Another useless cat here..)
+<a href="https://github.com/chux0519/runcat-tray"> runcat-tray</a> : A runcat port for Linux using libappindicator (Another useless cat here..)
 
 ## Programming libraries to create tray programs
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
-![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff) <a href="https://github.com/AyatanaIndicators/ayatana-indicator-application"> Ayatana AppIndicator</a>
-: Modern continuation of Canonical AppIndicator
+![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff) <a href="https://github.com/AyatanaIndicators/ayatana-indicator-application"> Ayatana AppIndicator</a> : Modern continuation of Canonical AppIndicator
 
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff) <a href="https://docs.gtk.org/gtk3/class.StatusIcon.html">
-Gtk StatusIcon</a>
-: GTK Base status icon implementation
+Gtk StatusIcon</a> : GTK Base status icon implementation
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)<a href="https://doc.qt.io/qt-6/qsystemtrayicon.html">
-QSystemTrayIcon</a>
-: Qt Base tray implementation
+QSystemTrayIcon</a> : Qt Base tray implementation
 
 
 ![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff) <a href="https://github.com/kolbusa/stalonetray">
-StaloneTray</a>
-: Minimal tray implementation for x11
+StaloneTray</a> : Minimal tray implementation for x11
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff) <a href="https://wiki.wxwidgets.org/WxTaskBarIcon">
-wxTaskBarIcon</a>
-: WxWidgets Base status icon implementation
+wxTaskBarIcon</a> : WxWidgets Base status icon implementation
