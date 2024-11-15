@@ -94,7 +94,7 @@ Full Example:
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
-![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/palinek/nm-tray">nm-tray</a> : NetworkManager tray icon -> simple front end
 
 ## Multimedia
@@ -116,7 +116,7 @@ Full Example:
 
 ![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
-![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
+![Qt6](https://img.shields.io/badge/Qt6-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/gyunaev/birdtray"> Birdtray</a>
 : System tray notification for new mail for Thunderbird
 
@@ -126,6 +126,12 @@ Full Example:
 : Adds a tray icon to the Spotify Linux client application
 
 ### Panel/Bar utils
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![Python](https://img.shields.io/badge/-4584b6?style=flat-square&logo=python&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://codeberg.org/WhyNotHugo/caffeine-ng"> Caffeine-ng</a>
+: Temporarily inhibits the screensaver and sleep mode.
+
 ![C++](https://img.shields.io/badge/-5e97d0?style=flat-square&logo=c%2B%2B&logoColor=fff)
 ![Qt5](https://img.shields.io/badge/Qt5-41CD52?style=flat-square&logo=qt&logoColor=fff)
 <a href="https://github.com/user-none/KDocker"> Kdocker</a>
@@ -137,6 +143,12 @@ Full Example:
 : Provides a StatusNotifierHost widget written using the gtk+3 bindings for haskell (recommended for taffybar)
 
 ### Panel/Bar Widgets
+
+![Wayland support](https://img.shields.io/badge/-FFBC00?style=flat-square&logo=wayland&logoColor=fff)
+![C](https://img.shields.io/badge/-044f99?style=flat-square&logo=c&logoColor=fff)
+![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
+<a href="https://codeberg.org/ItsZariep/gtrunner"> GTRunner</a> : Run shell commands from tray
+
 ![Perl](https://img.shields.io/badge/-39457E?style=flat-square&logo=perl&logoColor=white)
 ![GTK3](https://img.shields.io/badge/GTK3-527999?style=flat-square&logo=gtk&logoColor=fff)
 <a href="https://github.com/trizen/menutray"> Menutray</a> : A simple GTK+ application menu tray.
